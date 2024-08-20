@@ -7,11 +7,9 @@
 
 
 display: flex;
+flex-direction: column;
 justify-content: center;
 align-items: center;
-
-    
-    
 }
 
 /* forom this line to below all the ncode is of pre loader */
